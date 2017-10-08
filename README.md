@@ -84,25 +84,25 @@ JSAsciiTable.getThemes();
 
 MySQL theme with Spreadsheet option enabled
 ```
-+---+-------+-----+---+
-|   | A     | B   | C |
-+---+-------+-----+---+
-| 1 | Lorem | 256 | 8 |
-| 2 | Ipsum | 64  | 6 |
-| 3 | dolor | 128 | 7 |
-+---+-------+-----+---+
++---+-------+----+----+
+|   | A     | B  | C  |
++---+-------+----+----+
+| 1 | Lorem | 18 | 02 |
+| 2 | Ipsum | 03 | 04 |
+| 3 | dolor | 17 | 08 |
++---+-------+----+----+
 ```
 
 Unicode theme with Title & Header
 ```
 ╔══════════════════════╗
-║        Magic         ║
+║        Table         ║
 ╠═══════╦═══════╦══════╣
-║ Some  ║ Magic ║ Some ║
+║ Some  ║ Magic ║ Misc ║
 ╠═══════╬═══════╬══════╣
-║ Lorem ║    18 ║    8 ║
-║ Ipsum ║    03 ║    6 ║
-║ dolor ║    87 ║    7 ║
+║ Lorem ║ 18    ║ 02   ║
+║ Ipsum ║ 03    ║ 04   ║
+║ dolor ║ 17    ║ 08   ║
 ╚═══════╩═══════╩══════╝
 ```
 
