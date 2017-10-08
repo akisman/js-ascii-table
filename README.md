@@ -1,6 +1,6 @@
 # Javascript Ascii Table
 
-A *really simple* Javascript library that turns arrays into pretty ASCII tables, inspired by [ascii-table](https://github.com/sorensen/ascii-table). 
+A *really simple* Javascript library that turns arrays into pretty ASCII tables, inspired by [ascii-table](https://github.com/sorensen/ascii-table). See it in action <a href="https://akisman.github.io/js-ascii-table/">here</a>.
 
 # Installation
 
